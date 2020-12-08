@@ -132,7 +132,7 @@ body {
   max-width: 35%;
   height: auto;
   margin: 10px;
-  cursor: pointer;
+
 }
 
 .card-rotate img, 
@@ -141,7 +141,6 @@ body {
   max-width: 100%;
   height: auto;
   margin: 0px;
-  cursor: pointer;
 }
 
 .card-rotate, 
@@ -340,14 +339,15 @@ body {
   .hamburger {
     display:block;
     cursor: pointer;
+    padding: 15px;
     background-color: transparent;
     position: absolute;
     width:30px;
-    top:45px;
+    top:30px;
     left: 15px;
   }
 
-  .navigation__desktop__bar, 
+  .navigation-bar, 
   .navigation-list, 
   .navigation-item {
     display:none;
@@ -380,6 +380,7 @@ body {
   .card-move {
     transition:none;
     transform-style:none;
+    cursor: auto;
   }
 
   .rotate {
@@ -427,7 +428,7 @@ body {
 
 @media screen and (max-width: 575.98px) {
   .hamburger {
-    top: 30px;
+    top: 15px;
   }
   
   .site-header {
