@@ -3,7 +3,7 @@
 This project is a simple gallery example. One of my hobby is drawing so I decided make a website and put some of my pictures which I draw when I was a teenager. 
 Creating this site I have learned animations and transitions.
 
-##Screen
+
 ![Algorithm schema](./images/img_github/gallery_screen.jpg)
 
 ## Technologies
