@@ -13,3 +13,6 @@ Creating this site I have learned animations and transitions.
 
 ## Setup
 To run gallery you should only clone this repository or download .zip file.
+
+## Link
+See more at https://mattix10-gallery.netlify.app/
